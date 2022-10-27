@@ -1,0 +1,19 @@
+"exposure"	"outcome"	"id.exposure"	"id.outcome"	"samplesize"	"SNP"	"b"	"se"	"p"
+"Hypothyroidism/myxoedema"	"Rheumatoid arthritis"	"finn-b-HYPOTHY_REIMB"	"finn-b-M13_RHEUMA"	NA	"rs10116520"	0.566305254378649	0.165971643035863	0.000644738489231736
+"Hypothyroidism/myxoedema"	"Rheumatoid arthritis"	"finn-b-HYPOTHY_REIMB"	"finn-b-M13_RHEUMA"	NA	"rs10174238"	0.845633039945836	0.156398104265403	6.41154717009993e-08
+"Hypothyroidism/myxoedema"	"Rheumatoid arthritis"	"finn-b-HYPOTHY_REIMB"	"finn-b-M13_RHEUMA"	NA	"rs10929817"	0.282448979591837	0.164081632653061	0.0851795273253231
+"Hypothyroidism/myxoedema"	"Rheumatoid arthritis"	"finn-b-HYPOTHY_REIMB"	"finn-b-M13_RHEUMA"	NA	"rs11571297"	0.667777777777778	0.112777777777778	3.19635364517255e-09
+"Hypothyroidism/myxoedema"	"Rheumatoid arthritis"	"finn-b-HYPOTHY_REIMB"	"finn-b-M13_RHEUMA"	NA	"rs17843723"	-0.620963172804533	0.172237960339943	0.000311836773800071
+"Hypothyroidism/myxoedema"	"Rheumatoid arthritis"	"finn-b-HYPOTHY_REIMB"	"finn-b-M13_RHEUMA"	NA	"rs2442752"	-0.4019658561821	0.110191412312468	0.000264405539096756
+"Hypothyroidism/myxoedema"	"Rheumatoid arthritis"	"finn-b-HYPOTHY_REIMB"	"finn-b-M13_RHEUMA"	NA	"rs2476601"	0.816509926854754	0.058098223615465	7.28474252316317e-45
+"Hypothyroidism/myxoedema"	"Rheumatoid arthritis"	"finn-b-HYPOTHY_REIMB"	"finn-b-M13_RHEUMA"	NA	"rs2857165"	1.26700434153401	0.161360347322721	4.09395921222415e-15
+"Hypothyroidism/myxoedema"	"Rheumatoid arthritis"	"finn-b-HYPOTHY_REIMB"	"finn-b-M13_RHEUMA"	NA	"rs2858483"	0.445182724252492	0.165282392026578	0.00707130737843227
+"Hypothyroidism/myxoedema"	"Rheumatoid arthritis"	"finn-b-HYPOTHY_REIMB"	"finn-b-M13_RHEUMA"	NA	"rs3184504"	0.487562189054726	0.0895522388059702	5.19673195168888e-08
+"Hypothyroidism/myxoedema"	"Rheumatoid arthritis"	"finn-b-HYPOTHY_REIMB"	"finn-b-M13_RHEUMA"	NA	"rs56175143"	0.75082056892779	0.12308533916849	1.06068465258976e-09
+"Hypothyroidism/myxoedema"	"Rheumatoid arthritis"	"finn-b-HYPOTHY_REIMB"	"finn-b-M13_RHEUMA"	NA	"rs7030280"	-0.0111287758346582	0.10863804981452	0.918408209596822
+"Hypothyroidism/myxoedema"	"Rheumatoid arthritis"	"finn-b-HYPOTHY_REIMB"	"finn-b-M13_RHEUMA"	NA	"rs73192661"	0.0483630952380952	0.149553571428571	0.746405138479148
+"Hypothyroidism/myxoedema"	"Rheumatoid arthritis"	"finn-b-HYPOTHY_REIMB"	"finn-b-M13_RHEUMA"	NA	"rs9269020"	0.965923172242875	0.141263940520446	8.04638603045602e-12
+"Hypothyroidism/myxoedema"	"Rheumatoid arthritis"	"finn-b-HYPOTHY_REIMB"	"finn-b-M13_RHEUMA"	NA	"rs9271365"	1.48676521141286	0.0749398418700584	1.35938941967559e-87
+"Hypothyroidism/myxoedema"	"Rheumatoid arthritis"	"finn-b-HYPOTHY_REIMB"	"finn-b-M13_RHEUMA"	NA	"rs9277557"	1.15519765739385	0.123474865788189	8.30234235823014e-21
+"Hypothyroidism/myxoedema"	"Rheumatoid arthritis"	"finn-b-HYPOTHY_REIMB"	"finn-b-M13_RHEUMA"	NA	"All - Inverse variance weighted"	0.673337473673164	0.13985669314656	1.4758251167807e-06
+"Hypothyroidism/myxoedema"	"Rheumatoid arthritis"	"finn-b-HYPOTHY_REIMB"	"finn-b-M13_RHEUMA"	NA	"All - MR Egger"	1.1249505360348	0.343300563383779	0.00551014656524297

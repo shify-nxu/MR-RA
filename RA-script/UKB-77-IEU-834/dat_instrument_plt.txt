@@ -1,0 +1,2 @@
+"id.exposure"	"id.outcome"	"outcome"	"exposure"	"egger_intercept"	"se"	"pval"
+"ukb-a-77"	"ebi-a-GCST000679"	"Rheumatoid arthritis"	"Hypothyroidism/myxoedema"	0.00908502194185028	0.0149808508990177	0.546671748070393

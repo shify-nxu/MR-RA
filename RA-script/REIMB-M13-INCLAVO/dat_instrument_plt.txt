@@ -1,0 +1,2 @@
+"id.exposure"	"id.outcome"	"outcome"	"exposure"	"egger_intercept"	"se"	"pval"
+"finn-b-HYPOTHY_REIMB"	"finn-b-M13_RHEUMA_INCLAVO"	"Rheumatoid arthritis"	"Hypothyroidism/myxoedema"	-0.104733891826387	0.0695264323504683	0.154194893725498

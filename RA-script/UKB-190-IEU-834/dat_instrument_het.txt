@@ -1,0 +1,3 @@
+"id.exposure"	"id.outcome"	"outcome"	"exposure"	"method"	"Q"	"Q_df"	"Q_pval"
+"ukb-a-190"	"ebi-a-GCST000679"	"Rheumatoid arthritis"	"Hypothyroidism/myxoedema"	"MR Egger"	473.222720532623	35	3.24470081559491e-78
+"ukb-a-190"	"ebi-a-GCST000679"	"Rheumatoid arthritis"	"Hypothyroidism/myxoedema"	"Inverse variance weighted"	522.46665343878	36	1.30414550804413e-87
