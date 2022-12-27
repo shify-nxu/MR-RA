@@ -1,3 +1,0 @@
-"id.exposure"	"id.outcome"	"outcome"	"exposure"	"method"	"Q"	"Q_df"	"Q_pval"
-"finn-b-HYPOTHY_REIMB"	"finn-b-M13_RHEUMA_INCLAVO"	"Rheumatoid arthritis"	"Hypothyroidism/myxoedema"	"MR Egger"	349.599387856821	14	4.99399003381299e-66
-"finn-b-HYPOTHY_REIMB"	"finn-b-M13_RHEUMA_INCLAVO"	"Rheumatoid arthritis"	"Hypothyroidism/myxoedema"	"Inverse variance weighted"	406.264691730079	15	3.33600122629031e-77
