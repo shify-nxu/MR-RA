@@ -1,0 +1,3 @@
+"id.exposure"	"id.outcome"	"outcome"	"exposure"	"method"	"Q"	"Q_df"	"Q_pval"
+"ukb-a-77"	"ebi-a-GCST000679"	"Rheumatoid arthritis"	"Non-cancer illness code self-reported: hypothyroidism/myxoedema"	"MR Egger"	90.6268936989359	55	0.00176641145308282
+"ukb-a-77"	"ebi-a-GCST000679"	"Rheumatoid arthritis"	"Non-cancer illness code self-reported: hypothyroidism/myxoedema"	"Inverse variance weighted"	91.6710709416417	56	0.00185859965138181

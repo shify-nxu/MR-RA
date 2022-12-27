@@ -1,0 +1,3 @@
+"id.exposure"	"id.outcome"	"outcome"	"exposure"	"method"	"Q"	"Q_df"	"Q_pval"
+"finn-b-HYPOTHY_REIMB"	"finn-b-M13_RHEUMA"	"Rheumatoid arthritis"	"Hypothyroidism, drug reimbursement"	"MR Egger"	331.251357231528	14	3.49171836648403e-62
+"finn-b-HYPOTHY_REIMB"	"finn-b-M13_RHEUMA"	"Rheumatoid arthritis"	"Hypothyroidism, drug reimbursement"	"Inverse variance weighted"	379.715529627564	15	1.25463667481565e-71

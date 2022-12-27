@@ -1,0 +1,4 @@
+"id.exposure"	"id.outcome"	"outcome"	"exposure"	"egger_intercept"	"se"	"pval"
+"finn-b-M13_RHEUMA"	"finn-b-HYPOTHY_REIMB"	"Hypothyroidism, drug reimbursement"	"Rheumatoid arthritis"	0.073494478982772	0.0419096205523221	0.0912750072955698
+"ebi-a-GCST000679"	"ukb-a-77"	"Non-cancer illness code self-reported: hypothyroidism/myxoedema"	"Rheumatoid arthritis"	-0.000135897642474929	0.00243334862682891	0.956154362217753
+"ebi-a-GCST000679"	"ukb-a-190"	"Treatment/medication code: levothyroxine sodium"	"Rheumatoid arthritis"	0.000222151435355618	0.0020094082379916	0.913343610638327

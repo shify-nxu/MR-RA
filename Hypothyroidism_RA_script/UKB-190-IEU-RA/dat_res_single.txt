@@ -1,0 +1,32 @@
+"exposure"	"outcome"	"id.exposure"	"id.outcome"	"samplesize"	"SNP"	"b"	"se"	"p"
+"Treatment/medication code: levothyroxine sodium"	"Rheumatoid arthritis"	"ukb-a-190"	"ebi-a-GCST000679"	25708	"rs10425559"	0.457165097035639	0.219921981862832	0.0376393824863645
+"Treatment/medication code: levothyroxine sodium"	"Rheumatoid arthritis"	"ukb-a-190"	"ebi-a-GCST000679"	25708	"rs10768122"	0.319986459330172	0.223775215770088	0.15273253786449
+"Treatment/medication code: levothyroxine sodium"	"Rheumatoid arthritis"	"ukb-a-190"	"ebi-a-GCST000679"	25708	"rs11073337"	0.671997295668832	0.202555901959481	0.000907978813822942
+"Treatment/medication code: levothyroxine sodium"	"Rheumatoid arthritis"	"ukb-a-190"	"ebi-a-GCST000679"	25708	"rs11571302"	0.502906912863161	0.100949497969574	6.30061587203245e-07
+"Treatment/medication code: levothyroxine sodium"	"Rheumatoid arthritis"	"ukb-a-190"	"ebi-a-GCST000679"	25708	"rs12325861"	0.287113559261858	0.208800743981368	0.169112831760273
+"Treatment/medication code: levothyroxine sodium"	"Rheumatoid arthritis"	"ukb-a-190"	"ebi-a-GCST000679"	25708	"rs13383352"	0.0541679684121153	0.223760184117566	0.808717818243321
+"Treatment/medication code: levothyroxine sodium"	"Rheumatoid arthritis"	"ukb-a-190"	"ebi-a-GCST000679"	25708	"rs1534430"	0.355523556624511	0.233278041888341	0.127500336582055
+"Treatment/medication code: levothyroxine sodium"	"Rheumatoid arthritis"	"ukb-a-190"	"ebi-a-GCST000679"	25708	"rs16918198"	0.388460562309156	0.311109560071414	0.211800631660131
+"Treatment/medication code: levothyroxine sodium"	"Rheumatoid arthritis"	"ukb-a-190"	"ebi-a-GCST000679"	25708	"rs174584"	0.457017524572754	0.270008891183509	0.0905312957515539
+"Treatment/medication code: levothyroxine sodium"	"Rheumatoid arthritis"	"ukb-a-190"	"ebi-a-GCST000679"	25708	"rs2111485"	0.304844245527903	0.219505631487898	0.164900747030762
+"Treatment/medication code: levothyroxine sodium"	"Rheumatoid arthritis"	"ukb-a-190"	"ebi-a-GCST000679"	25708	"rs2412971"	0.542651106699347	0.234609299991917	0.0207226869914966
+"Treatment/medication code: levothyroxine sodium"	"Rheumatoid arthritis"	"ukb-a-190"	"ebi-a-GCST000679"	25708	"rs2744944"	0.438790141799525	0.258789823844294	0.0899718249726701
+"Treatment/medication code: levothyroxine sodium"	"Rheumatoid arthritis"	"ukb-a-190"	"ebi-a-GCST000679"	25708	"rs2858483"	0.323282710392657	0.186147181510823	0.0824392836712544
+"Treatment/medication code: levothyroxine sodium"	"Rheumatoid arthritis"	"ukb-a-190"	"ebi-a-GCST000679"	25708	"rs3184504"	0.286412164711408	0.100251184044206	0.00427739334821135
+"Treatment/medication code: levothyroxine sodium"	"Rheumatoid arthritis"	"ukb-a-190"	"ebi-a-GCST000679"	25708	"rs34801483"	0.501469094553348	0.280976880180079	0.0743044135925047
+"Treatment/medication code: levothyroxine sodium"	"Rheumatoid arthritis"	"ukb-a-190"	"ebi-a-GCST000679"	25708	"rs3732378"	0.086457901843371	0.33798792006341	0.798103921610914
+"Treatment/medication code: levothyroxine sodium"	"Rheumatoid arthritis"	"ukb-a-190"	"ebi-a-GCST000679"	25708	"rs4409785"	0.452685947201701	0.245945496977207	0.0656809935113221
+"Treatment/medication code: levothyroxine sodium"	"Rheumatoid arthritis"	"ukb-a-190"	"ebi-a-GCST000679"	25708	"rs4915076"	0.13198486078849	0.146855944127401	0.368792799809118
+"Treatment/medication code: levothyroxine sodium"	"Rheumatoid arthritis"	"ukb-a-190"	"ebi-a-GCST000679"	25708	"rs683763"	-0.112134025059053	0.199325947591862	0.573730367446049
+"Treatment/medication code: levothyroxine sodium"	"Rheumatoid arthritis"	"ukb-a-190"	"ebi-a-GCST000679"	25708	"rs7072793"	1.07044035855097	0.205106280258083	1.79935889193187e-07
+"Treatment/medication code: levothyroxine sodium"	"Rheumatoid arthritis"	"ukb-a-190"	"ebi-a-GCST000679"	25708	"rs71508903"	1.45114805548636	0.607065727587527	0.016828662221413
+"Treatment/medication code: levothyroxine sodium"	"Rheumatoid arthritis"	"ukb-a-190"	"ebi-a-GCST000679"	25708	"rs71571466"	0.396255766413191	0.30513789539192	0.194077079645728
+"Treatment/medication code: levothyroxine sodium"	"Rheumatoid arthritis"	"ukb-a-190"	"ebi-a-GCST000679"	25708	"rs744253"	0.937823117497474	0.247126863541314	0.000147699644530547
+"Treatment/medication code: levothyroxine sodium"	"Rheumatoid arthritis"	"ukb-a-190"	"ebi-a-GCST000679"	25708	"rs7655751"	0.40532802647992	0.182347629970925	0.0262271750276589
+"Treatment/medication code: levothyroxine sodium"	"Rheumatoid arthritis"	"ukb-a-190"	"ebi-a-GCST000679"	25708	"rs7751251"	0.228400092714513	0.338231157904424	0.499499096835619
+"Treatment/medication code: levothyroxine sodium"	"Rheumatoid arthritis"	"ukb-a-190"	"ebi-a-GCST000679"	25708	"rs853303"	0.106301032899916	0.213086440572495	0.617875597606217
+"Treatment/medication code: levothyroxine sodium"	"Rheumatoid arthritis"	"ukb-a-190"	"ebi-a-GCST000679"	25708	"rs9356551"	0.348783952326251	0.188691606183898	0.0645396054437337
+"Treatment/medication code: levothyroxine sodium"	"Rheumatoid arthritis"	"ukb-a-190"	"ebi-a-GCST000679"	25708	"rs9366622"	0.564252120401818	0.319488729907527	0.0773774593075853
+"Treatment/medication code: levothyroxine sodium"	"Rheumatoid arthritis"	"ukb-a-190"	"ebi-a-GCST000679"	25708	"rs9507287"	0.368010046188815	0.196591103996333	0.0612125858440839
+"Treatment/medication code: levothyroxine sodium"	"Rheumatoid arthritis"	"ukb-a-190"	"ebi-a-GCST000679"	25708	"All - Inverse variance weighted"	0.382634653858472	0.044330445775448	6.05954444962907e-18
+"Treatment/medication code: levothyroxine sodium"	"Rheumatoid arthritis"	"ukb-a-190"	"ebi-a-GCST000679"	25708	"All - MR Egger"	0.337830099877579	0.131585971304526	0.0161039084848418
