@@ -12,9 +12,9 @@ dat$exposure <- "Non-cancer illness code self-reported: hypothyroidism/myxoedema
 dat$outcome <- "Rheumatoid arthritis"
 
 
-#异质性检验
+#heterogeneity
 het <- mr_heterogeneity(dat)
-#水平多效性检验
+#pleiotropy
 plt <- mr_pleiotropy_test(dat)
 
 #leave-one-out analysis
@@ -45,18 +45,18 @@ plt <- mr_pleiotropy_test(dat)
 res_loo <- mr_leaveoneout(dat)
 
 
-#可视化
-#散点图
+
+#scatter
 p1 <- mr_scatter_plot(mr_result,dat)
 
-#森林图
+#forest
 res_single <- mr_singlesnp(dat)
 p2 <- mr_forest_plot(res_single)
 
 #Leave-one-out plot
 p3 <- mr_leaveoneout_plot(res_loo)
 
-#漏斗图
+#funnel
 res_single <- mr_singlesnp(dat)
 p4 <- mr_funnel_plot(res_single)
 
