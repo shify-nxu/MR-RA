@@ -1,0 +1,2 @@
+"id.exposure"	"id.outcome"	"outcome"	"exposure"	"egger_intercept"	"se"	"pval"
+"ukb-a-190"	"yIuBvR"	"Rheumatoid arthritis"	"Treatment/medication code: levothyroxine sodium"	-0.0384257762836355	0.0345514694496138	0.271987898203663

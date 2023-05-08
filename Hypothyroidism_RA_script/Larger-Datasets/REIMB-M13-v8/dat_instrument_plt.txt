@@ -1,0 +1,2 @@
+"id.exposure"	"id.outcome"	"outcome"	"exposure"	"egger_intercept"	"se"	"pval"
+"WRmkUU"	"J2Ijdh"	"Rheumatoid arthritis"	"Hypothyroidism, drug reimbursement"	-0.201650320289768	0.117700538000484	0.117441694181248

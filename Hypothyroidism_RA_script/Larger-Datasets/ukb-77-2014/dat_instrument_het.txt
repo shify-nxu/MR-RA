@@ -1,0 +1,3 @@
+"id.exposure"	"id.outcome"	"outcome"	"exposure"	"method"	"Q"	"Q_df"	"Q_pval"
+"ukb-a-77"	"dR0gZR"	"Rheumatoid arthritis"	"Non-cancer illness code self-reported: hypothyroidism/myxoedema"	"MR Egger"	1927.14211735647	77	0
+"ukb-a-77"	"dR0gZR"	"Rheumatoid arthritis"	"Non-cancer illness code self-reported: hypothyroidism/myxoedema"	"Inverse variance weighted"	1932.65219090568	78	0

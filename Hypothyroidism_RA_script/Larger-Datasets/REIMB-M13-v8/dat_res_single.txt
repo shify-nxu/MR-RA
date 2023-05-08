@@ -1,0 +1,15 @@
+"exposure"	"outcome"	"id.exposure"	"id.outcome"	"samplesize"	"SNP"	"b"	"se"	"p"
+"Hypothyroidism, drug reimbursement"	"Rheumatoid arthritis"	"WRmkUU"	"J2Ijdh"	NA	"rs10174238"	0.651961019634199	0.0974527147040469	2.23133695876283e-11
+"Hypothyroidism, drug reimbursement"	"Rheumatoid arthritis"	"WRmkUU"	"J2Ijdh"	NA	"rs1057373"	2.02791060942094	0.155207450688555	5.1634081684326e-39
+"Hypothyroidism, drug reimbursement"	"Rheumatoid arthritis"	"WRmkUU"	"J2Ijdh"	NA	"rs11571297"	0.517529774794283	0.0789546340407103	5.57262426184591e-11
+"Hypothyroidism, drug reimbursement"	"Rheumatoid arthritis"	"WRmkUU"	"J2Ijdh"	NA	"rs12202730"	0.855180662650307	0.149162986093069	9.85555249495679e-09
+"Hypothyroidism, drug reimbursement"	"Rheumatoid arthritis"	"WRmkUU"	"J2Ijdh"	NA	"rs2476601"	0.841306367886663	0.0442049750178791	9.27570177110952e-81
+"Hypothyroidism, drug reimbursement"	"Rheumatoid arthritis"	"WRmkUU"	"J2Ijdh"	NA	"rs2523623"	-1.21042483224771	0.104059009542774	2.83046464104182e-31
+"Hypothyroidism, drug reimbursement"	"Rheumatoid arthritis"	"WRmkUU"	"J2Ijdh"	NA	"rs3128968"	1.40610983149473	0.100121777846351	8.38484485626707e-45
+"Hypothyroidism, drug reimbursement"	"Rheumatoid arthritis"	"WRmkUU"	"J2Ijdh"	NA	"rs3184504"	0.50924564646744	0.0686652401539081	1.20389540753587e-13
+"Hypothyroidism, drug reimbursement"	"Rheumatoid arthritis"	"WRmkUU"	"J2Ijdh"	NA	"rs36229731"	-1.21484592552794	0.109642185544584	1.56704707115522e-28
+"Hypothyroidism, drug reimbursement"	"Rheumatoid arthritis"	"WRmkUU"	"J2Ijdh"	NA	"rs41308311"	0.971187773354956	0.151709174898029	1.53715104445381e-10
+"Hypothyroidism, drug reimbursement"	"Rheumatoid arthritis"	"WRmkUU"	"J2Ijdh"	NA	"rs56175143"	0.756472294813306	0.0830842782477743	8.63627025120206e-20
+"Hypothyroidism, drug reimbursement"	"Rheumatoid arthritis"	"WRmkUU"	"J2Ijdh"	NA	"rs9271365"	1.05273484314115	0.0480588674386912	2.32212640201106e-106
+"Hypothyroidism, drug reimbursement"	"Rheumatoid arthritis"	"WRmkUU"	"J2Ijdh"	NA	"All - Inverse variance weighted"	0.683288270672967	0.197524222539246	0.000541655360890466
+"Hypothyroidism, drug reimbursement"	"Rheumatoid arthritis"	"WRmkUU"	"J2Ijdh"	NA	"All - MR Egger"	1.5044713727144	0.512757263096764	0.014936060231125

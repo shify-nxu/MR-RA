@@ -1,0 +1,14 @@
+"exposure"	"outcome"	"id.exposure"	"id.outcome"	"samplesize"	"SNP"	"b"	"se"	"p"
+"Hypothyroidism, drug reimbursement"	"Rheumatoid arthritis"	"WRmkUU"	"J2Ijdh"	NA	"rs10174238"	0.685054811601026	0.212912335508321	0.00129293185674767
+"Hypothyroidism, drug reimbursement"	"Rheumatoid arthritis"	"WRmkUU"	"J2Ijdh"	NA	"rs1057373"	0.65438298120681	0.199674165849622	0.00104821985050083
+"Hypothyroidism, drug reimbursement"	"Rheumatoid arthritis"	"WRmkUU"	"J2Ijdh"	NA	"rs11571297"	0.69796138971381	0.215526668847568	0.00120202492903972
+"Hypothyroidism, drug reimbursement"	"Rheumatoid arthritis"	"WRmkUU"	"J2Ijdh"	NA	"rs12202730"	0.67928044055588	0.2093980931261	0.00117877527467336
+"Hypothyroidism, drug reimbursement"	"Rheumatoid arthritis"	"WRmkUU"	"J2Ijdh"	NA	"rs2476601"	0.627932313435772	0.238266270209388	0.00840325881220045
+"Hypothyroidism, drug reimbursement"	"Rheumatoid arthritis"	"WRmkUU"	"J2Ijdh"	NA	"rs2523623"	0.776301276177396	0.162930127022904	1.89203354592866e-06
+"Hypothyroidism, drug reimbursement"	"Rheumatoid arthritis"	"WRmkUU"	"J2Ijdh"	NA	"rs3128968"	0.644786837498647	0.205602075329904	0.00171216012750251
+"Hypothyroidism, drug reimbursement"	"Rheumatoid arthritis"	"WRmkUU"	"J2Ijdh"	NA	"rs3184504"	0.704255861288316	0.218355070329619	0.00125850283595599
+"Hypothyroidism, drug reimbursement"	"Rheumatoid arthritis"	"WRmkUU"	"J2Ijdh"	NA	"rs36229731"	0.766857891670478	0.168065200393557	5.04615918928491e-06
+"Hypothyroidism, drug reimbursement"	"Rheumatoid arthritis"	"WRmkUU"	"J2Ijdh"	NA	"rs41308311"	0.676804090162684	0.20902898942822	0.0012043496741821
+"Hypothyroidism, drug reimbursement"	"Rheumatoid arthritis"	"WRmkUU"	"J2Ijdh"	NA	"rs56175143"	0.67748771407531	0.215112093261325	0.00163570467259399
+"Hypothyroidism, drug reimbursement"	"Rheumatoid arthritis"	"WRmkUU"	"J2Ijdh"	NA	"rs9271365"	0.579393886007465	0.223760417751786	0.00961574946761217
+"Hypothyroidism, drug reimbursement"	"Rheumatoid arthritis"	"WRmkUU"	"J2Ijdh"	NA	"All"	0.683288270672967	0.197524222539246	0.000541655360890466

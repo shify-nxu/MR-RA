@@ -1,0 +1,2 @@
+"id.exposure"	"id.outcome"	"outcome"	"exposure"	"egger_intercept"	"se"	"pval"
+"ukb-a-77"	"dR0gZR"	"Rheumatoid arthritis"	"Non-cancer illness code self-reported: hypothyroidism/myxoedema"	-0.011160061580262	0.0237847944155155	0.640245479716732

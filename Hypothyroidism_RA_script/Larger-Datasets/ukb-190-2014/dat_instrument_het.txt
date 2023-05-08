@@ -1,0 +1,3 @@
+"id.exposure"	"id.outcome"	"outcome"	"exposure"	"method"	"Q"	"Q_df"	"Q_pval"
+"ukb-a-190"	"yIuBvR"	"Rheumatoid arthritis"	"Treatment/medication code: levothyroxine sodium"	"MR Egger"	1172.30719593404	45	3.87333434061573e-216
+"ukb-a-190"	"yIuBvR"	"Rheumatoid arthritis"	"Treatment/medication code: levothyroxine sodium"	"Inverse variance weighted"	1204.52835599073	46	3.63640269171796e-222

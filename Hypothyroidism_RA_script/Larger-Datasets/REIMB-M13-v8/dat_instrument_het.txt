@@ -1,0 +1,3 @@
+"id.exposure"	"id.outcome"	"outcome"	"exposure"	"method"	"Q"	"Q_df"	"Q_pval"
+"WRmkUU"	"J2Ijdh"	"Rheumatoid arthritis"	"Hypothyroidism, drug reimbursement"	"MR Egger"	654.477122331212	10	3.68697389365005e-134
+"WRmkUU"	"J2Ijdh"	"Rheumatoid arthritis"	"Hypothyroidism, drug reimbursement"	"Inverse variance weighted"	846.58067937791	11	1.87494133306867e-174
